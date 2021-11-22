@@ -2,7 +2,7 @@
 
 ![Screenshot](Untitled2.jpg)
 
-For your notes, this works in every supporting windows installation. Including Windows 11 and Server 2022.
+For your notes, this works in every supporting windows installation. Including Windows 11 and Server 2022 with November 2021 patch.
 
 As some of you might notice, this also work in server installations. While group policy by default doesn't allow standard users to do any msi operation. The administrative install feature thing seems to be completely bypassing group policy.
 
