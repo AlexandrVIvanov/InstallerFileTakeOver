@@ -1,6 +1,6 @@
 # InstallerFileTakeOver
 
-![Screenshot](image.png)
+![Screenshot](Untitled2.jpg)
 
 For your notes, this works in every supporting windows installation. Including Windows 11 and Server 2022.
 
