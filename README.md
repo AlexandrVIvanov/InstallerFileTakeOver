@@ -1,7 +1,5 @@
 # InstallerFileTakeOver
 
-![image](https://user-images.githubusercontent.com/53986347/142788741-9a9d6d51-fcb5-4c36-b826-5454c6ba5d4e.png)
-
 
 For your notes, this works in every supporting windows installation. Including Windows 11 and Server 2022.
 
